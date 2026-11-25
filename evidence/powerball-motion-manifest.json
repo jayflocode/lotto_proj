@@ -1,0 +1,18 @@
+{
+  "source_publisher": "Florida Lottery",
+  "game": "powerball",
+  "camera_cohort": "Florida Lottery main white-ball chamber, wide shot, 640x360",
+  "frame_size_px": [640, 360],
+  "decode_start_s": 7.5,
+  "decode_duration_s": 30,
+  "chamber_width_px": 104,
+  "crop": [118, 158, 197, 226],
+  "clips": [
+    {"date": "2026-11-11", "file": "pb1111.mp4", "url": "https://www.youtube.com/watch?v=wdRRzzinBDE", "white_in_order": [57, 45, 8, 51, 42], "rack_arrival_s": [18.25, 22.75, 27, 33.5, 37.75]},
+    {"date": "2026-11-14", "file": "pb1114.mp4", "url": "https://www.youtube.com/watch?v=hdto27UZU2o", "white_in_order": [49, 9, 68, 51, 44], "rack_arrival_s": [19.25, 24, 28.5, 32.75, 37.25]},
+    {"date": "2026-11-16", "file": "pb1116.mp4", "url": "https://www.youtube.com/watch?v=bRBxt2Z-bak", "white_in_order": [69, 17, 60, 35, 48], "rack_arrival_s": [18.5, 22.5, 27.25, 31.25, 35.75]},
+    {"date": "2026-11-18", "file": "pb1118.mp4", "url": "https://www.youtube.com/watch?v=KuCUV-R2f-c", "white_in_order": [31, 18, 51, 43, 62], "rack_arrival_s": [18, 22.25, 26.75, 31, 35.75]},
+    {"date": "2026-11-21", "file": "pb1121.mp4", "url": "https://www.youtube.com/watch?v=ARJ5amID574", "white_in_order": [45, 5, 36, 33, 29], "rack_arrival_s": [18.75, 23, 27.25, 31.25, 35.25]},
+    {"date": "2026-11-23", "file": "pb1123.mp4", "url": "https://www.youtube.com/watch?v=VJ8fKujq9Xc", "white_in_order": [58, 27, 9, 7, 40], "rack_arrival_s": [19, 23.25, 27.25, 31.75, 36]}
+  ]
+}

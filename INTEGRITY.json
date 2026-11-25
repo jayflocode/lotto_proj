@@ -1,0 +1,24 @@
+{
+  "through": "2026-11-23",
+  "sqlite_integrity": "ok",
+  "foreign_key_violations": 0,
+  "raw_responses": 60,
+  "raw_checksum_mismatches": [],
+  "source_issues": [],
+  "powerball": {
+    "records": 1437,
+    "expected": 1437,
+    "first": "2015-10-07",
+    "last": "2026-11-23",
+    "missing": [],
+    "off_schedule": []
+  },
+  "double_play": {
+    "records": 823,
+    "expected": 823,
+    "first": "2021-08-23",
+    "last": "2026-11-23",
+    "missing": [],
+    "off_schedule": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "through": "2026-11-23",
+  "trials": 20000,
+  "seed": 20261123,
+  "2026-10": {
+    "draws": 13,
+    "first": "2026-10-03",
+    "last": "2026-10-31",
+    "scheduled_draws_through_cutoff": 13,
+    "missing_draw_dates": [],
+    "power_play_counts": {
+      "2": 7,
+      "3": 5,
+      "4": 1
+    },
+    "mean_white_sum": 153.0,
+    "mean_powerball": 13.692307692307692,
+    "uniform_p": {
+      "white": 0.5327233638318084,
+      "powerball": 0.5663216839158042
+    }
+  },
+  "2026-11": {
+    "draws": 10,
+    "first": "2026-11-02",
+    "last": "2026-11-23",
+    "scheduled_draws_through_cutoff": 10,
+    "missing_draw_dates": [],
+    "power_play_counts": {
+      "2": 8,
+      "3": 1,
+      "4": 1
+    },
+    "mean_white_sum": 190.9,
+    "mean_powerball": 18.1,
+    "uniform_p": {
+      "white": 0.7624118794060297,
+      "powerball": 0.5079746012699365
+    }
+  },
+  "between_months_p": {
+    "white": 0.22353882305884706,
+    "powerball": 0.24113794310284486
+  },
+  "holm_family_size": 6,
+  "holm_adjusted_p": {
+    "2026-10": {
+      "white": 1.0,
+      "powerball": 1.0
+    },
+    "2026-11": {
+      "white": 1.0,
+      "powerball": 1.0
+    },
+    "between_months": {
+      "white": 1.0,
+      "powerball": 1.0
+    }
+  }
+}

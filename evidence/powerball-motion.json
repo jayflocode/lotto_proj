@@ -1,0 +1,1189 @@
+{
+  "source_publisher": "Florida Lottery",
+  "game": "powerball",
+  "camera_cohort": "Florida Lottery main white-ball chamber, wide shot, 640x360",
+  "frame_size_px": [
+    640,
+    360
+  ],
+  "decode_start_s": 7.5,
+  "decode_duration_s": 30,
+  "chamber_width_px": 104,
+  "crop": [
+    118,
+    158,
+    197,
+    226
+  ],
+  "clips": [
+    {
+      "date": "2026-11-11",
+      "file": "pb1111.mp4",
+      "url": "https://www.youtube.com/watch?v=wdRRzzinBDE",
+      "white_in_order": [
+        57,
+        45,
+        8,
+        51,
+        42
+      ],
+      "rack_arrival_s": [
+        18.25,
+        22.75,
+        27,
+        33.5,
+        37.75
+      ],
+      "fps": 30.0,
+      "sha256": "1f698fba8379f6228dc6f8046004029badb8e1ef1708544334ec215ba4cd1b46",
+      "measurements": {
+        "early": [
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.040009
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.090351
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.022651
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.05824
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.023463
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.038694
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.028138
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.06838
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.014078
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.054269
+            }
+          }
+        ],
+        "nominal": [
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.039485
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.090351
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.023087
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.064252
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.02681
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.038694
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.028138
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.085254
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.010879
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.039985
+            }
+          }
+        ],
+        "late": [
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.041103
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.107819
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.03007
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.084978
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.031231
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.06827
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.048062
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.120444
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.006833
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.021404
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "file": "pb1114.mp4",
+      "url": "https://www.youtube.com/watch?v=hdto27UZU2o",
+      "white_in_order": [
+        49,
+        9,
+        68,
+        51,
+        44
+      ],
+      "rack_arrival_s": [
+        19.25,
+        24,
+        28.5,
+        32.75,
+        37.25
+      ],
+      "fps": 30.0,
+      "sha256": "bf20918be6da573409c71fb18bc375188b695f9943423ee0b1ff5c79008c071b",
+      "measurements": {
+        "early": [
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.028264
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.092526
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.050251
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.152742
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.046412
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.139672
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.034042
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.100812
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.04091
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.121227
+            }
+          }
+        ],
+        "nominal": [
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.029135
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.099686
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.0519
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.152742
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.052851
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.176818
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.034042
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.122039
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.038423
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.121227
+            }
+          }
+        ],
+        "late": [
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.035669
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.173848
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.062588
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.185961
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.076025
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.203633
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.039849
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.126122
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.022662
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.087562
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "file": "pb1116.mp4",
+      "url": "https://www.youtube.com/watch?v=bRBxt2Z-bak",
+      "white_in_order": [
+        69,
+        17,
+        60,
+        35,
+        48
+      ],
+      "rack_arrival_s": [
+        18.5,
+        22.5,
+        27.25,
+        31.25,
+        35.75
+      ],
+      "fps": 30.0,
+      "sha256": "c9345c6773c6f5d4e60fd583b00f803f56b73b802ed34ec725ee37509d5b163d",
+      "measurements": {
+        "early": [
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.042142
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.113786
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.058406
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.1952
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.058479
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.146543
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.077232
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.213974
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.031217
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.109196
+            }
+          }
+        ],
+        "nominal": [
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.056464
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.139815
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.089375
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.21508
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.061892
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.159478
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.088106
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.224545
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.034856
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.116998
+            }
+          }
+        ],
+        "late": [
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.068757
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.184461
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.128204
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.311884
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.07161
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.170068
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.095532
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.258853
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.031217
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.116998
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "file": "pb1118.mp4",
+      "url": "https://www.youtube.com/watch?v=KuCUV-R2f-c",
+      "white_in_order": [
+        31,
+        18,
+        51,
+        43,
+        62
+      ],
+      "rack_arrival_s": [
+        18,
+        22.25,
+        26.75,
+        31,
+        35.75
+      ],
+      "fps": 30.0,
+      "sha256": "d70eeef9b3fe7b8cdb6b377bbeb9c5e57a6668afeb14004f90d50760f8c0afbd",
+      "measurements": {
+        "early": [
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.039295
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.107898
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.04246
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.148688
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.035843
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.11419
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.063105
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.16536
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.029186
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.094658
+            }
+          }
+        ],
+        "nominal": [
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.051522
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.121701
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.068694
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.202345
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.042911
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.155574
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.065803
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.20389
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.026568
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.094658
+            }
+          }
+        ],
+        "late": [
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.061234
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.185612
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.087694
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.223346
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.049993
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.175698
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.090113
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.237684
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.022295
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.094658
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-21",
+      "file": "pb1121.mp4",
+      "url": "https://www.youtube.com/watch?v=ARJ5amID574",
+      "white_in_order": [
+        45,
+        5,
+        36,
+        33,
+        29
+      ],
+      "rack_arrival_s": [
+        18.75,
+        23,
+        27.25,
+        31.25,
+        35.25
+      ],
+      "fps": 30.0,
+      "sha256": "2bca365561ee05a5b00dc5f1a7b980e321fada392eb4e74e3190c7813ea90d05",
+      "measurements": {
+        "early": [
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.049016
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.091825
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.063422
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.194699
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.074877
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.275869
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.052041
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.158528
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.024783
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.045013
+            }
+          }
+        ],
+        "nominal": [
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.050702
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.098719
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.102456
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.26045
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.091893
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.285898
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.059732
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.176921
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.022681
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.035411
+            }
+          }
+        ],
+        "late": [
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.065369
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.142952
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.113159
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.285307
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.108517
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.334022
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.071097
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.194126
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.01557
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.021087
+            }
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "file": "pb1123.mp4",
+      "url": "https://www.youtube.com/watch?v=VJ8fKujq9Xc",
+      "white_in_order": [
+        58,
+        27,
+        9,
+        7,
+        40
+      ],
+      "rack_arrival_s": [
+        19,
+        23.25,
+        27.25,
+        31.75,
+        36
+      ],
+      "fps": 30.0,
+      "sha256": "03894ca62e4eaa96d9bd46e49c73036528edc68f44f09920c5830fc54891fc72",
+      "measurements": {
+        "early": [
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.053315
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.137948
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.073941
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.181796
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.045701
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.171709
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.074693
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.226591
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.055964
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.181664
+            }
+          }
+        ],
+        "nominal": [
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.05802
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.164531
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.080833
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.211864
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.046824
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.180458
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.075231
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.200716
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.054682
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.181664
+            }
+          }
+        ],
+        "late": [
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.080325
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.185311
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.094811
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.242313
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.055132
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.199806
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.079606
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.261473
+            }
+          },
+          {
+            "frame_pairs": 45,
+            "dis": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.054682
+            },
+            "farneback": {
+              "usable_pairs": 45,
+              "chamber_widths_per_s": 0.168666
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "schema_version": 1,
+  "software": {
+    "opencv": "5.1.0",
+    "numpy": "2.4.6"
+  }
+}

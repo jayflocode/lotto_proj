@@ -1,0 +1,736 @@
+{
+  "through": "2026-11-23",
+  "coverage": {
+    "draws": 1437,
+    "first": "2015-10-07",
+    "last": "2026-11-23",
+    "missing": []
+  },
+  "latest_draw": {
+    "date": "2026-11-23",
+    "white": [
+      {
+        "number": 7,
+        "previous_count": 97,
+        "current_count": 98
+      },
+      {
+        "number": 9,
+        "previous_count": 97,
+        "current_count": 98
+      },
+      {
+        "number": 27,
+        "previous_count": 118,
+        "current_count": 119
+      },
+      {
+        "number": 40,
+        "previous_count": 105,
+        "current_count": 106
+      },
+      {
+        "number": 58,
+        "previous_count": 100,
+        "current_count": 101
+      }
+    ],
+    "powerball": {
+      "number": 19,
+      "previous_count": 52,
+      "current_count": 53
+    },
+    "consecutive_pair": {
+      "previous_date": "2026-11-21",
+      "shared_white": [],
+      "same_powerball": false
+    }
+  },
+  "frequency_tests": {
+    "white": [
+      {
+        "number": 1,
+        "observed": 95,
+        "expected": 104.1304347826087,
+        "p_value": 0.3868545963060253,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 2,
+        "observed": 104,
+        "expected": 104.1304347826087,
+        "p_value": 1.0,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 3,
+        "observed": 115,
+        "expected": 104.1304347826087,
+        "p_value": 0.2630088563611413,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 4,
+        "observed": 102,
+        "expected": 104.1304347826087,
+        "p_value": 0.878675503832087,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 5,
+        "observed": 96,
+        "expected": 104.1304347826087,
+        "p_value": 0.44518152717892967,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 6,
+        "observed": 109,
+        "expected": 104.1304347826087,
+        "p_value": 0.6108044416483207,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 7,
+        "observed": 98,
+        "expected": 104.1304347826087,
+        "p_value": 0.5756136941114183,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 8,
+        "observed": 98,
+        "expected": 104.1304347826087,
+        "p_value": 0.5756136941114183,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 9,
+        "observed": 98,
+        "expected": 104.1304347826087,
+        "p_value": 0.5756136941114183,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 10,
+        "observed": 95,
+        "expected": 104.1304347826087,
+        "p_value": 0.3868545963060253,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 11,
+        "observed": 101,
+        "expected": 104.1304347826087,
+        "p_value": 0.7991708218676641,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 12,
+        "observed": 106,
+        "expected": 104.1304347826087,
+        "p_value": 0.8386836172133266,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 13,
+        "observed": 80,
+        "expected": 104.1304347826087,
+        "p_value": 0.012604440029877002,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 14,
+        "observed": 97,
+        "expected": 104.1304347826087,
+        "p_value": 0.5082092004456645,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 15,
+        "observed": 99,
+        "expected": 104.1304347826087,
+        "p_value": 0.6469561952336501,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 16,
+        "observed": 113,
+        "expected": 104.1304347826087,
+        "p_value": 0.3597022843128521,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 17,
+        "observed": 103,
+        "expected": 104.1304347826087,
+        "p_value": 0.9594193980845933,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 18,
+        "observed": 108,
+        "expected": 104.1304347826087,
+        "p_value": 0.6838998603679457,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 19,
+        "observed": 106,
+        "expected": 104.1304347826087,
+        "p_value": 0.8386836172133266,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 20,
+        "observed": 102,
+        "expected": 104.1304347826087,
+        "p_value": 0.878675503832087,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 21,
+        "observed": 128,
+        "expected": 104.1304347826087,
+        "p_value": 0.01908985345859053,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 22,
+        "observed": 92,
+        "expected": 104.1304347826087,
+        "p_value": 0.2415883327709124,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 23,
+        "observed": 120,
+        "expected": 104.1304347826087,
+        "p_value": 0.11440729537118817,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 24,
+        "observed": 101,
+        "expected": 104.1304347826087,
+        "p_value": 0.7991708218676641,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 25,
+        "observed": 91,
+        "expected": 104.1304347826087,
+        "p_value": 0.20303713970848788,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 26,
+        "observed": 84,
+        "expected": 104.1304347826087,
+        "p_value": 0.04163380091679432,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 27,
+        "observed": 119,
+        "expected": 104.1304347826087,
+        "p_value": 0.1397327859803903,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 28,
+        "observed": 121,
+        "expected": 104.1304347826087,
+        "p_value": 0.09284740336804617,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 29,
+        "observed": 97,
+        "expected": 104.1304347826087,
+        "p_value": 0.5082092004456645,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 30,
+        "observed": 103,
+        "expected": 104.1304347826087,
+        "p_value": 0.9594193980845933,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 31,
+        "observed": 102,
+        "expected": 104.1304347826087,
+        "p_value": 0.878675503832087,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 32,
+        "observed": 120,
+        "expected": 104.1304347826087,
+        "p_value": 0.11440729537118817,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 33,
+        "observed": 119,
+        "expected": 104.1304347826087,
+        "p_value": 0.1397327859803903,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 34,
+        "observed": 87,
+        "expected": 104.1304347826087,
+        "p_value": 0.08355806006879112,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 35,
+        "observed": 94,
+        "expected": 104.1304347826087,
+        "p_value": 0.3334356224133199,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 36,
+        "observed": 120,
+        "expected": 104.1304347826087,
+        "p_value": 0.11440729537118817,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 37,
+        "observed": 114,
+        "expected": 104.1304347826087,
+        "p_value": 0.30885095273072044,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 38,
+        "observed": 97,
+        "expected": 104.1304347826087,
+        "p_value": 0.5082092004456645,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 39,
+        "observed": 109,
+        "expected": 104.1304347826087,
+        "p_value": 0.6108044416483207,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 40,
+        "observed": 106,
+        "expected": 104.1304347826087,
+        "p_value": 0.8386836172133266,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 41,
+        "observed": 94,
+        "expected": 104.1304347826087,
+        "p_value": 0.3334356224133199,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 42,
+        "observed": 102,
+        "expected": 104.1304347826087,
+        "p_value": 0.878675503832087,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 43,
+        "observed": 100,
+        "expected": 104.1304347826087,
+        "p_value": 0.7216897402875659,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 44,
+        "observed": 114,
+        "expected": 104.1304347826087,
+        "p_value": 0.30885095273072044,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 45,
+        "observed": 105,
+        "expected": 104.1304347826087,
+        "p_value": 0.918923972844904,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 46,
+        "observed": 84,
+        "expected": 104.1304347826087,
+        "p_value": 0.04163380091679432,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 47,
+        "observed": 114,
+        "expected": 104.1304347826087,
+        "p_value": 0.30885095273072044,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 48,
+        "observed": 95,
+        "expected": 104.1304347826087,
+        "p_value": 0.3868545963060253,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 49,
+        "observed": 86,
+        "expected": 104.1304347826087,
+        "p_value": 0.06685569173878504,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 50,
+        "observed": 105,
+        "expected": 104.1304347826087,
+        "p_value": 0.918923972844904,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 51,
+        "observed": 95,
+        "expected": 104.1304347826087,
+        "p_value": 0.3868545963060253,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 52,
+        "observed": 110,
+        "expected": 104.1304347826087,
+        "p_value": 0.5414004736907325,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 53,
+        "observed": 115,
+        "expected": 104.1304347826087,
+        "p_value": 0.2630088563611413,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 54,
+        "observed": 101,
+        "expected": 104.1304347826087,
+        "p_value": 0.7991708218676641,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 55,
+        "observed": 96,
+        "expected": 104.1304347826087,
+        "p_value": 0.44518152717892967,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 56,
+        "observed": 104,
+        "expected": 104.1304347826087,
+        "p_value": 1.0,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 57,
+        "observed": 102,
+        "expected": 104.1304347826087,
+        "p_value": 0.878675503832087,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 58,
+        "observed": 101,
+        "expected": 104.1304347826087,
+        "p_value": 0.7991708218676641,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 59,
+        "observed": 113,
+        "expected": 104.1304347826087,
+        "p_value": 0.3597022843128521,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 60,
+        "observed": 97,
+        "expected": 104.1304347826087,
+        "p_value": 0.5082092004456645,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 61,
+        "observed": 127,
+        "expected": 104.1304347826087,
+        "p_value": 0.02200414200170197,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 62,
+        "observed": 114,
+        "expected": 104.1304347826087,
+        "p_value": 0.30885095273072044,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 63,
+        "observed": 117,
+        "expected": 104.1304347826087,
+        "p_value": 0.18599491438511787,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 64,
+        "observed": 126,
+        "expected": 104.1304347826087,
+        "p_value": 0.028599551001530443,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 65,
+        "observed": 94,
+        "expected": 104.1304347826087,
+        "p_value": 0.3334356224133199,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 66,
+        "observed": 103,
+        "expected": 104.1304347826087,
+        "p_value": 0.9594193980845933,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 67,
+        "observed": 104,
+        "expected": 104.1304347826087,
+        "p_value": 1.0,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 68,
+        "observed": 100,
+        "expected": 104.1304347826087,
+        "p_value": 0.7216897402875659,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 69,
+        "observed": 118,
+        "expected": 104.1304347826087,
+        "p_value": 0.15443499250269774,
+        "holm_p_value": 1.0
+      }
+    ],
+    "powerball": [
+      {
+        "number": 1,
+        "observed": 60,
+        "expected": 55.269230769230774,
+        "p_value": 0.49276721878272306,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 2,
+        "observed": 56,
+        "expected": 55.269230769230774,
+        "p_value": 0.8908510638794893,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 3,
+        "observed": 59,
+        "expected": 55.269230769230774,
+        "p_value": 0.5831398882955158,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 4,
+        "observed": 67,
+        "expected": 55.269230769230774,
+        "p_value": 0.1140812777055964,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 5,
+        "observed": 61,
+        "expected": 55.269230769230774,
+        "p_value": 0.4105369073344605,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 6,
+        "observed": 52,
+        "expected": 55.269230769230774,
+        "p_value": 0.7313818513308223,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 7,
+        "observed": 48,
+        "expected": 55.269230769230774,
+        "p_value": 0.37189027709520195,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 8,
+        "observed": 46,
+        "expected": 55.269230769230774,
+        "p_value": 0.2171139326537986,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 9,
+        "observed": 59,
+        "expected": 55.269230769230774,
+        "p_value": 0.5831398882955158,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 10,
+        "observed": 51,
+        "expected": 55.269230769230774,
+        "p_value": 0.6307689305461466,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 11,
+        "observed": 49,
+        "expected": 55.269230769230774,
+        "p_value": 0.4499668476027288,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 12,
+        "observed": 49,
+        "expected": 55.269230769230774,
+        "p_value": 0.4499668476027288,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 13,
+        "observed": 54,
+        "expected": 55.269230769230774,
+        "p_value": 0.9452672303645607,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 14,
+        "observed": 68,
+        "expected": 55.269230769230774,
+        "p_value": 0.08593887982800782,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 15,
+        "observed": 47,
+        "expected": 55.269230769230774,
+        "p_value": 0.3028076174040054,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 16,
+        "observed": 40,
+        "expected": 55.269230769230774,
+        "p_value": 0.033441901069482055,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 17,
+        "observed": 47,
+        "expected": 55.269230769230774,
+        "p_value": 0.3028076174040054,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 18,
+        "observed": 62,
+        "expected": 55.269230769230774,
+        "p_value": 0.33711585173261693,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 19,
+        "observed": 53,
+        "expected": 55.269230769230774,
+        "p_value": 0.8368220012821518,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 20,
+        "observed": 63,
+        "expected": 55.269230769230774,
+        "p_value": 0.2727865307601028,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 21,
+        "observed": 65,
+        "expected": 55.269230769230774,
+        "p_value": 0.19175463947869884,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 22,
+        "observed": 49,
+        "expected": 55.269230769230774,
+        "p_value": 0.4499668476027288,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 23,
+        "observed": 54,
+        "expected": 55.269230769230774,
+        "p_value": 0.9452672303645607,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 24,
+        "observed": 63,
+        "expected": 55.269230769230774,
+        "p_value": 0.2727865307601028,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 25,
+        "observed": 61,
+        "expected": 55.269230769230774,
+        "p_value": 0.4105369073344605,
+        "holm_p_value": 1.0
+      },
+      {
+        "number": 26,
+        "observed": 54,
+        "expected": 55.269230769230774,
+        "p_value": 0.9452672303645607,
+        "holm_p_value": 1.0
+      }
+    ]
+  },
+  "consecutive_draw_tests": {
+    "pairs": 1436,
+    "at_least_one_white": {
+      "observed": 453,
+      "expected": 461.77865666036064,
+      "p_value": 0.6311474523340105,
+      "holm_p_value": 1.0
+    },
+    "same_powerball": {
+      "observed": 48,
+      "expected": 55.23076923076923,
+      "p_value": 0.3717545474812179,
+      "holm_p_value": 1.0
+    }
+  },
+  "holm_family_size": 97
+}
